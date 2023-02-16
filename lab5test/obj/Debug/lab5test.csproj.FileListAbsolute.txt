@@ -1,0 +1,8 @@
+D:\promapirovanie\lab5test\lab5test\bin\Debug\lab5test.exe.config
+D:\promapirovanie\lab5test\lab5test\bin\Debug\lab5test.exe
+D:\promapirovanie\lab5test\lab5test\bin\Debug\lab5test.pdb
+D:\promapirovanie\lab5test\lab5test\obj\Debug\lab5test.csproj.AssemblyReference.cache
+D:\promapirovanie\lab5test\lab5test\obj\Debug\lab5test.csproj.SuggestedBindingRedirects.cache
+D:\promapirovanie\lab5test\lab5test\obj\Debug\lab5test.csproj.CoreCompileInputs.cache
+D:\promapirovanie\lab5test\lab5test\obj\Debug\lab5test.exe
+D:\promapirovanie\lab5test\lab5test\obj\Debug\lab5test.pdb

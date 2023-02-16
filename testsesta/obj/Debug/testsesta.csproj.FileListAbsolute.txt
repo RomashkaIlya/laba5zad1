@@ -1,0 +1,8 @@
+D:\promapirovanie\lab5test\testsesta\bin\Debug\testsesta.exe.config
+D:\promapirovanie\lab5test\testsesta\bin\Debug\testsesta.exe
+D:\promapirovanie\lab5test\testsesta\bin\Debug\testsesta.pdb
+D:\promapirovanie\lab5test\testsesta\obj\Debug\testsesta.csproj.AssemblyReference.cache
+D:\promapirovanie\lab5test\testsesta\obj\Debug\testsesta.csproj.SuggestedBindingRedirects.cache
+D:\promapirovanie\lab5test\testsesta\obj\Debug\testsesta.csproj.CoreCompileInputs.cache
+D:\promapirovanie\lab5test\testsesta\obj\Debug\testsesta.exe
+D:\promapirovanie\lab5test\testsesta\obj\Debug\testsesta.pdb
